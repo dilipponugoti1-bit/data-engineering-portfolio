@@ -8,3 +8,4 @@ This portfolio contains representative code samples aligned with data engineerin
 3. **saas_api_ingestion/** – Example SaaS API ingestion, JSON normalization, saving as CSV/Parquet.
 
 These are sample projects with fake/sanitized data for demonstration only.
+
